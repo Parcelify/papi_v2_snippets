@@ -1,1 +1,1 @@
-# papi_v2_snippets
+This repository includes code snippets from [Parcel PAPI V2 Documentation](https://github.com/Parcelify/papi_v2_snippets)
